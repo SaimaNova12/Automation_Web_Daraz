@@ -1,5 +1,5 @@
 ## Web Automation Daraz
-<u>Work Flow at a glance : </u>
+<code style="color : fuchsia">Work flow at a glance : </code>
 
 ##### Login to Daraz(with multiple credentials(Invalid, Valid)) 
 ##### -> Hover "Women's & Girls Fashion Section" -> Hover "Muslim Wear" 
