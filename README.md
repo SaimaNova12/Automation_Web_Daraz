@@ -1,10 +1,16 @@
 ## Web Automation Daraz
 <code style="color : fuchsia">Work flow at a glance : </code>
 
-##### Login to Daraz(with multiple credentials(Invalid, Valid)) 
 ##### -> Hover "Women's & Girls Fashion Section" -> Hover "Muslim Wear" 
-##### -> Select "Abayas and Long Dresses" -> Select a particular Item 
-##### -> Click "goto cart" -> Click "proceed to checkout" -> Goto "Orders & Account" to logout
-##### -> Back to Home Page -> Click to "Login" -> Put username & password to login 
-##### -> Complete Login ->Search Item(multiple data--Valid Invalid)
-##### -> Back to Home Page -> Logout
+##### -> Select "Abayas and Long Dresses" 
+##### -> Select a particular Item 
+##### -> Click "goto cart" 
+##### -> Login to the Account 
+##### -> Click "proceed to checkout" 
+##### -> Back to Home Page -> Search an Item
+##### -> Back to Home Page 
+##### -> Click on "Best Price Guaranteed"
+##### -> Click on "Easy Returns" 
+##### -> Click on Returns Policy
+##### -> Select sector "Fashion"
+##### -> Back to HomePage
